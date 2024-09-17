@@ -6,7 +6,7 @@ This project features a battery animation that simulates a charging effect using
 Battery Animation: The battery's charge level changes with color transitions.
 Responsive Design: The layout is centered and adjusts to the viewport.
 Custom Font: Uses the "Pacifico" font for a stylized heading.
-<br>
 
+<h3>Deploy Link</h3>
 You can view the live version of this project at the following link:
 https://asfiyahussain00.github.io/Battery-Animation/
